@@ -1,0 +1,19 @@
+.red {
+    background-color: rgba(214, 112, 112, 0.425);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id1 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.bigger {
+    font-size: 24px;
+}
+
+#id2 {
+    background-color: rgb(104, 182, 104);
+    font-size: 24px;
+    font-weight: bold;
+}
